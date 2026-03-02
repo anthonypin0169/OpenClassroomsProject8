@@ -126,6 +126,11 @@ body {
 	object-fit: cover;
 	padding: .5em;
 }
+.gallery-item img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
 .mg-prev, .mg-next {
 	width: 30px;
 	height: 30px;
